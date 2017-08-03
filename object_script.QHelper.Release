@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\createnewprofile.o
+./release\helperdelegate.o
+./release\rcqhelper.o
+./release\dialogclass.o
+./release\moc_createnewprofile.o
+./release\moc_helperdelegate.o
+./release\moc_rcqhelper.o
+./release\moc_qnvtables.o
+./release\moc_nvtable.o
+./release\moc_qnvprofiles.o
+./release\moc_qNvRepository.o
+./release\moc_connectionStringBuilder.o
+./release\moc_dialogclass.o
+);

@@ -1,4 +1,4 @@
-﻿#include "qnvstaticclass.h"
+﻿#include "qnvstaticclass.hpp"
 
 qnvStaticClass::qnvStaticClass(QObject * parent) : QObject(parent) {
 	
